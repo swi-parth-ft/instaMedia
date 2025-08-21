@@ -1,7 +1,8 @@
 scheduled_ist,text,topic_tag,topics,image_paths,media_type,alt_texts,link_url,posted_at
-2025-08-21 17:07,First Threads test post,appdev,"ios,swift",media_threads/screenshot1.png,IMAGE,Alt text for screenshot1,https://itshere.space,
+2025-08-22 17:07,First Threads test post,appdev,"ios,swift",media_threads/screenshot1.png,IMAGE,Alt text for screenshot1,https://itshere.space,
 2025-08-22 17:35,Second Threads caption here,design,"ux,figma",media_threads/screenshot2.png|media_threads/screenshot3.png,IMAGE,Alt text 1|Alt text 2,,
 2025-08-22 17:09,Make Threads posts beautiful,appdev,"ios,swift",media_threads/ano.mp4,IMAGE,Alt text for screenshot1,,
+
 
 
 
