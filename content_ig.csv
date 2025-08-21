@@ -1,12 +1,8 @@
-image_path,image_url,caption,posted_at
-media/screenshot1.png,,First test post - API run,2025-08-21T09:31:14Z
-media/screenshot2.png,,Second post caption here,2025-08-21T09:33:17Z
-media/screenshot3.png,,Third one with a cool image,
-media/screenshot4.png,,Fourth post caption goes here,
-media/screenshot5.png,,Fifth test post caption,
-media/screenshot6.png,,User content for Pixera,
-media/screenshot7.png,,Another Pixera showcase,
-media/screenshot8.png,,Feature highlight for Pixera,
-media/screenshot9.png,,Workflow example in Pixera,
-media/screenshot10.png,,Polished capture from Pixera,
-media/screenshot11.png,,Final screenshot test for Pixera,
+image_path,image_url,caption,scheduled_ist,posted_at
+media/screenshot5.png,,Fifth test post caption,2025-08-21 16:04,
+media/screenshot6.png,,User content for Pixera,2025-08-21 16:05,
+media/screenshot7.png,,Another Pixera showcase,2025-08-21 16:06,
+media/screenshot8.png,,Feature highlight for Pixera,2025-08-21 16:07,
+media/screenshot9.png,,Workflow example in Pixera,2025-08-21 16:08,
+media/screenshot10.png,,Polished capture from Pixera,2025-08-21 16:09,
+media/screenshot11.png,,Final screenshot test for Pixera,2025-08-21 16:10,
