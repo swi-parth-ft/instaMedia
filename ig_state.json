@@ -1,0 +1,10 @@
+{
+  "runs": [
+    {
+      "at_utc": "2025-08-21T09:31:15Z",
+      "media_id": "18284589919260144",
+      "image_url": "https://raw.githubusercontent.com/swi-parth-ft/instaMedia/main/media/screenshot1.png",
+      "caption": "First test post - API run"
+    }
+  ]
+}
